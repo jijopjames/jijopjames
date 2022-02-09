@@ -11,7 +11,7 @@
 
 ### Featured Project
 
-[Salary Prediction on Glassddor data](https://github.com/jijopjames/data_science_salary_prediction) 💸
+[Salary Prediction on Glassdoor data](https://github.com/jijopjames/data_science_salary_prediction) 💸
 
 [Sentimental Analysis on US Election 2020](https://github.com/jijopjames/US-election-2020-sentiment-analysis) 🗳️
 
